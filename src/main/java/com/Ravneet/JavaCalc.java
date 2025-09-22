@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class JavaCalculator {
+public class JavaCalc {
 
   public static void main(String[] args) {
     Scanner s=new Scanner(System.in);
-    JavaCalculator jc=new JavaCalculator();
+    JavaCalc jc=new JavaCalc();
 
     for(int i=0;i<1000;i++){
       System.out.println("-----------------------CALCULATOR-----------------------");
